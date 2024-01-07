@@ -13,7 +13,7 @@ The goal of the project is to update the Overthrow codebase to allow for easier 
 # Overthrow
 A dynamic and persistent revolution campaign mod for ARMA 3 Apex
 
-# Current Features
+# Current Features123
 * GTA-inspired wanted/stealth system
 * Dynamic political system with regional stability affecting presence of 2 different opposing factions to the player (BLUFOR and criminal elements)
 * Buy and sell just about in any-game item/vehicle/weapon for currency at local shops and gun dealers
